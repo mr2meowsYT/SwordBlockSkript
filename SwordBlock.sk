@@ -1,0 +1,2 @@
+on right clicking holding any sword:
+	set player's offhand tool to shield named "sword blocking"
